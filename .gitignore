@@ -1,0 +1,10 @@
+# IDE
+.idea/dbnavigator.xml
+.idea/deployment.xml
+.idea/workspace.xml
+
+# NPM
+npm-debug.log*
+node_modules/
+
+debug.txt

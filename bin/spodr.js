@@ -2,7 +2,7 @@
 
 "use strict";
 
-const errors = require( "./errors" );
+const errors = require( "../lib/errors" );
 const log    = require( "fm-log" ).module();
 
 const app = require( "./app" );

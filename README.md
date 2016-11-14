@@ -1,6 +1,8 @@
 # spodr
-master: [![Build Status (master)](https://travis-ci.org/fairmanager/spodr.svg?branch=master)](https://travis-ci.org/fairmanager/spodr)
-dev: [![Build Status (dev)](https://travis-ci.org/fairmanager/spodr.svg?branch=dev)](https://travis-ci.org/fairmanager/spodr)
+[![npm version](https://badge.fury.io/js/spodr.svg)](https://badge.fury.io/js/spodr)
+[![Build Status (master)](https://travis-ci.org/fairmanager/spodr.svg?branch=master)](https://travis-ci.org/fairmanager/spodr)
+
+dev HEAD: [![Build Status (dev)](https://travis-ci.org/fairmanager/spodr.svg?branch=dev)](https://travis-ci.org/fairmanager/spodr)
 
 ## Commands
 

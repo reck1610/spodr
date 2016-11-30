@@ -1,5 +1,6 @@
 # spodr
-[![Build Status](https://travis-ci.org/fairmanager/spodr.svg?branch=master)](https://travis-ci.org/fairmanager/spodr)
+master: [![Build Status (master)](https://travis-ci.org/fairmanager/spodr.svg?branch=master)](https://travis-ci.org/fairmanager/spodr)
+dev: [![Build Status (dev)](https://travis-ci.org/fairmanager/spodr.svg?branch=dev)](https://travis-ci.org/fairmanager/spodr)
 
 ## Commands
 

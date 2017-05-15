@@ -1,10 +1,10 @@
 {
   "name": "spodr",
-  "version": "2.0.2",
+  "version": "3.0.0",
   "description": "Manage multi-npm-module projects easily",
   "main": "lib/app.js",
   "scripts": {
-    "test": "eslint lib && jscs lib"
+    "test": "eslint lib"
   },
   "bin": {
     "spodr": "bin/spodr.js"
@@ -20,8 +20,7 @@
   "license": "MIT",
   "homepage": "https://github.com/fairmanager/spodr",
   "devDependencies": {
-    "eslint": "~3.10.0",
-    "jscs": "~3.0.7"
+    "eslint": "3.18.0"
   },
   "dependencies": {
     "attempt-require": "1.0.0",
